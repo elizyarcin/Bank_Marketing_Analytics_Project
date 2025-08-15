@@ -45,3 +45,17 @@ For categorical columns with minimal unknown values, entries were either:
 ### Removed completely, or Converted into a separate no_info category to preserve data volume.
 
 Example: In the loan column, 2.4% unknown values were labeled no_info.
+
+
+| Visualization                     | Question Answered                                                   | Chart Type              |
+| --------------------------------- | ------------------------------------------------------------------- | ----------------------- |
+| **Age Distribution of Customers** | What is the overall age distribution of customers?                  | Histogram               |
+| **Housing vs Loan Status**        | How do housing and personal loan statuses correlate?                | Heatmap / Stacked Bar   |
+| **Campaign Success by Job**       | Which job groups have higher campaign success rates?                | Grouped / Stacked Bar   |
+| **Education vs Loan/Housing**     | Does education level influence housing or loan status?              | FacetGrid / Grouped Bar |
+| **Contact Method Analysis**       | Which communication channel is more common?                         | Pie Chart               |
+| **Day of Week Analysis**          | On which days are campaigns most active?                            | Bar Chart               |
+| **Poutcome Analysis**             | How do past campaign outcomes affect current success?               | Stacked Bar             |
+| **Loan / Housing vs Target**      | Does housing or loan status impact campaign success?                | Crosstab Heatmap        |
+| **Multi-variable Insights**       | How do job, education, and marital status together affect outcomes? | FacetGrid / Pairplot    |
+
