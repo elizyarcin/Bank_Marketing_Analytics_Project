@@ -46,7 +46,7 @@ For categorical columns with minimal unknown values, entries were either:
 
 Example: In the loan column, 2.4% unknown values were labeled no_info.
 
-## 🧹 Data Visualization
+## 🖼️ Data Visualization
 
 
 | Visualization                     | Question Answered                                                   | Chart Type              |
