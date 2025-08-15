@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 ## 📊 Example Visuals
 
 ![Age Distribution](images/age_distribution.png)  
