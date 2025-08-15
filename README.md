@@ -42,8 +42,6 @@ education_grouped ➡️ education
 
 For categorical columns with minimal unknown values, entries were either:
 
-### Removed completely, or
-
-Converted into a separate no_info category to preserve data volume.
+### Removed completely, or Converted into a separate no_info category to preserve data volume.
 
 Example: In the loan column, 2.4% unknown values were labeled no_info.
